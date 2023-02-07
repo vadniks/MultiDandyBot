@@ -6,3 +6,5 @@ Both of them are located in the separate repos:
 https://github.com/vadniks/MultiDandyBot_Client is client,
 
 https://github.com/vadniks/MultiDandyBot_Server is server.
+
+https://github.com/vadniks/DandyBotNative QT (C++) port.
